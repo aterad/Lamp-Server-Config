@@ -1,4 +1,4 @@
-FROM amazonlinux:latest
+FROM amazonlinux:latest1
 
 # Set the working directory in the image
 WORKDIR /app
